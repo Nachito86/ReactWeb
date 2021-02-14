@@ -9,6 +9,7 @@ const Welcome =(props)=>(
             <div className="Fitness-User-Info">
                 <h1>Hola {props.username}</h1>
                 <p>no pasa</p>
+                <p>RUTINAS ALBERT</p>
             </div>
         </dvi>
 )
