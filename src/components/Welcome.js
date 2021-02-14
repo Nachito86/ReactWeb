@@ -8,7 +8,7 @@ const Welcome =(props)=>(
     <dvi className="container">
             <div className="Fitness-User-Info">
                 <h1>Hola {props.username}</h1>
-                <p>Hoy vamos a iniciar tu rutina Go GO</p>
+                <p>no pasa</p>
             </div>
         </dvi>
 )
